@@ -1,2 +1,18 @@
 # simplechecktcpport
 simplechecktcpport. use c++ MFC gui. test tcp port status.
+
+# install
+1. no install
+
+# used
+1. lunch simplechecktcpport.exe
+2. write ipaddress and port number
+3. click TCP检测, footer is answer!
+4. use Ping, write ipaddress and click Ping测试!
+5. img like this:
+![image](https://github.com/xiandayayaya/simplechecktcpport/assets/130331081/b59fe2e5-8a88-4b89-8bc1-326282727b6d)
+
+# Give me Star !
+if use good, please give me Star !
+or give me this wechat. wahaha
+![wechat](https://github.com/xiandayayaya/simplechecktcpport/assets/130331081/5cd988a0-c1a7-427a-a9d4-fc1e935d17d7)
